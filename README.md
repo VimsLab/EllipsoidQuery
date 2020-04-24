@@ -1,8 +1,8 @@
 # EllipsoidQuery
 A Novel Local Geometry Capture in Pointnet++ for 3D Classification
 
-COMING SOON
------------
+COMING SOON (June 2020)
+-----------------------
 PointNet++ with ellipsoid querying<br>
 
 RS-CNN with ellipsoid querying<br>
