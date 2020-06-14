@@ -52,11 +52,13 @@ This code has been heaviy borrowed from https://github.com/Yochengliu/Relation-S
 
 
 To cite our paper please use below bibtex.
-
-@InProceedings{Sheshappanavar_2020_CVPR_Workshops,
-author = {Venkanna Sheshappanavar, Shivanand and Kambhamettu, Chandra},
-title = {A Novel Local Geometry Capture in PointNet++ for 3D Classification},
-booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-month = {June},
-year = {2020}
-}
+  
+```BibTex
+        @InProceedings{Sheshappanavar_2020_CVPR_Workshops,
+            author = {Venkanna Sheshappanavar, Shivanand and Kambhamettu, Chandra},
+            title = {A Novel Local Geometry Capture in PointNet++ for 3D Classification},
+            booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+            month = {June},
+            year = {2020}
+        }  
+```
