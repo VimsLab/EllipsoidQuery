@@ -23,7 +23,7 @@ Note: Also, works in the environment suggested by the authors of RS-CNN(https://
 Download
 --------
 git clone https://github.com/VimsLab/EllipsoidQuery.git<br>
-cd EllipsoidQuery/RSCNNQE<br>
+cd EllipsoidQuery/RSCNNEQ<br>
 
 Building Kernel
 ---------------
