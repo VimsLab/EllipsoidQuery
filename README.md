@@ -1,4 +1,4 @@
-# EllipsoidQuery
+# EllipsoidQuery (contact email: ssheshap@udel.edu)
 
 This code submission is to reproduce the impact of re-oriented ellipsoid querying on RS-CNN Shape Classification.<br>
 
