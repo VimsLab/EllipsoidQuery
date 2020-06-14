@@ -51,3 +51,12 @@ Note: You can use our model cls/model_cls_ssn_iter_70917_acc_0.925446.pth as the
 This code has been heaviy borrowed from https://github.com/Yochengliu/Relation-Shape-CNN/ and https://github.com/erikwijmans/Pointnet2_PyTorch <br>
 
 
+To cite our paper please use below bibtex.
+
+@InProceedings{Sheshappanavar_2020_CVPR_Workshops,
+author = {Venkanna Sheshappanavar, Shivanand and Kambhamettu, Chandra},
+title = {A Novel Local Geometry Capture in PointNet++ for 3D Classification},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2020}
+}
