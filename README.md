@@ -41,7 +41,7 @@ Usage: Evaluation
 Modify cfgs/config_ssn_cls.yaml with *.pth file from cls/ folder with highest accuracy.<br>
 python voting_evaluate_cls.py<br>
 
-Note: You can use our model cls/model_cls_ssn_iter_70917_acc_0.925446.pth as the checkpoint in config_ssn_cls.yaml, and with majority voting you will get an accuracy of 93.51%<br>
+Note: You can use our model cls/model_cls_ssn_iter_70917_acc_0.925446.pth as the checkpoint in config_ssn_cls.yaml, and with majority voting you will get an accuracy of 93.51%. Due to randomness the accuracy might vary. <br>
 
 This code has been heaviy borrowed from https://github.com/Yochengliu/Relation-Shape-CNN/ and https://github.com/erikwijmans/Pointnet2_PyTorch <br>
 
